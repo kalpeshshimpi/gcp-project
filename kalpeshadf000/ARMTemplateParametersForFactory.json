@@ -1,0 +1,24 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "kalpeshadf000"
+		},
+		"AmazonS31_secretAccessKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
+		"AzureDatabricks1_accessToken": {
+			"value": ""
+		},
+		"AmazonS31_properties_typeProperties_accessKeyId": {
+			"value": "AKIA6ODU5EOKGWPXNBG7"
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://kalpeshstorage.dfs.core.windows.net/"
+		}
+	}
+}
